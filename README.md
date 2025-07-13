@@ -4,7 +4,6 @@ A Python Software made to condense disaster data for emergency services to use.
 ## Images
 ![Page 1 screenshot](images/page_1.png) 
 ![Page 2 screenshot](images/page_2.png) 
-![Page 3 screenshot](images/page_3.png) 
 
 ---
 
